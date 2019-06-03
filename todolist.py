@@ -24,3 +24,6 @@ while c!= 'yes' or 'no':
   elif b=="no":
     break
 print(todolist)
+
+
+class todolist : 
